@@ -1,4 +1,4 @@
-rocketpyalpha==0.9.6
+rocketpy==0.9.6
 numpy >= 1.0
 scipy >= 1.0
 matplotlib >= 3.0
